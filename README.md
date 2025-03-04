@@ -38,6 +38,10 @@ to the model updates. Hence, any individual participants' information can not be
 - What’s the best way to aggregate model updates?
 - How can we handle failing client nodes (stragglers)?
 
+**Useful Information**
+
+![](images/llustration-of-IID-vs-non-IID-for-MNIST-dataset-Non-IID-data-distribution-is-common.png)
+
 ---
 ### References
 1. [Flower.ai documentation](https://flower.ai/docs/framework/tutorial-series-what-is-federated-learning.html)
