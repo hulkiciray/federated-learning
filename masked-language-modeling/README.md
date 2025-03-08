@@ -1,6 +1,6 @@
 ## Masked Language Modeling (MLM)
-This section of the repo is to get familiar with preparing data and building training part for
-masked language modeling approach. Hence, we will probably implement FL with BERT, encoder model trained with MLM strategy.
+We will probably implement FL with BERT, encoder model trained with MLM strategy. Hence, this section of the
+repo is to get familiar with preparing data and building training part for masked language modeling approach.
 
 ---
 #### Reference
