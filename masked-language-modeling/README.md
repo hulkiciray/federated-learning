@@ -32,6 +32,7 @@ Below you may see the structure of BERT and the language list that are used duri
 | Ukrainian            | Urdu                  | Uzbek                 | Vietnamese                 |
 | Volapük              | Waray-Waray           | Welsh                 | West Frisian               |
 | Western Punjabi      | Yoruba                | Thai (on new version) | Mongolian (on new version) |
+
 **Note:** The Multilingual Cased (New) release contains additionally **Thai** and **Mongolian**.
 
 ---
