@@ -36,7 +36,7 @@ Below you may see the structure of BERT and the language list that are used duri
 **Note:** The Multilingual Cased (New) release contains additionally **Thai** and **Mongolian**.
 
 ---
-#### Reference
+#### References
 * [mBERT corpora language list](https://github.com/google-research/bert/blob/master/multilingual.md#list-of-languages)
 * [Model types and some other information](https://huggingface.co/docs/transformers/glossary)
 * [Data preperation](https://www.youtube.com/watch?v=q9NS5WpfkrU)
