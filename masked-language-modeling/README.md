@@ -1,7 +1,8 @@
 ## Masked Language Modeling (MLM)
 We will probably implement FL with BERT, encoder model trained with MLM strategy. Hence, this section of the
 repo is to get familiar with preparing data and building training part for masked language modeling approach.
-Below you may see the language list that are used during pretraining mBERT.
+Below you may see the structure of BERT and the language list that are used during pretraining mBERT.
+![](../images/bert%20outline.jpg)
 
 | Column 1             | Column 2              | Column 3              | Column 4                   |
 |----------------------|-----------------------|-----------------------|----------------------------|
