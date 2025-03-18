@@ -170,4 +170,4 @@ if __name__ == "__main__":
                           device=config["device"],
                           verbose=config["verbose"])
 
-    fl.client.start_numpy_client(server_address="localhost:8080", client=client)
+    fl.client.start_numpy_client(server_address="localhost:8080", client=client )
