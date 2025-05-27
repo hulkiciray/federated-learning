@@ -46,4 +46,3 @@ to the model updates. Hence, any individual participants' information can not be
 ### References
 1. [Flower.ai documentation](https://flower.ai/docs/framework/tutorial-series-what-is-federated-learning.html)
 2. [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
-3. []()
